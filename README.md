@@ -21,3 +21,5 @@ Overall i was quite pleased with the state of my game, it is fully functional.
 *CSS for styling the buttons and Javascript for game functionality 
 
 ## Loom Video Link 
+
+https://www.loom.com/share/14abcfeaf5a84e74980f847b0af6a054?sid=b16d6337-a803-4158-b3c1-706345c2f0ef
